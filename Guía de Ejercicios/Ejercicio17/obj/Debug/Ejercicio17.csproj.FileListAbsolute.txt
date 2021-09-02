@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio17\obj\Debug\Ejercicio17.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio17\bin\Debug\Ejercicio17.exe
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio17\bin\Debug\Ejercicio17.pdb
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio17\obj\Debug\Ejercicio17.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio17\obj\Debug\Ejercicio17.exe
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio17\obj\Debug\Ejercicio17.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio17\bin\Debug\Ejercicio17.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio17\bin\Debug\Ejercicio17.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio17\obj\Debug\Ejercicio17.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio17\obj\Debug\Ejercicio17.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio17\obj\Debug\Ejercicio17.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio17\obj\Debug\Ejercicio17.pdb

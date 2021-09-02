@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio13\bin\Debug\Ejercicio13.exe.config
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio13\bin\Debug\Ejercicio13.exe
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio13\bin\Debug\Ejercicio13.pdb
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio13\obj\Debug\Ejercicio13.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio13\obj\Debug\Ejercicio13.exe
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio13\obj\Debug\Ejercicio13.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio13\bin\Debug\Ejercicio13.exe.config
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio13\bin\Debug\Ejercicio13.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio13\bin\Debug\Ejercicio13.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio13\obj\Debug\Ejercicio13.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio13\obj\Debug\Ejercicio13.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio13\obj\Debug\Ejercicio13.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio13\obj\Debug\Ejercicio13.pdb

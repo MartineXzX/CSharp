@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio8\obj\Debug\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio8\bin\Debug\Ejercicio8.exe
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio8\bin\Debug\Ejercicio8.pdb
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio8\obj\Debug\Ejercicio8.exe
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio8\obj\Debug\Ejercicio8.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio8\bin\Debug\Ejercicio8.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio8\bin\Debug\Ejercicio8.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio8\obj\Debug\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio8\obj\Debug\Ejercicio8.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio8\obj\Debug\Ejercicio8.pdb

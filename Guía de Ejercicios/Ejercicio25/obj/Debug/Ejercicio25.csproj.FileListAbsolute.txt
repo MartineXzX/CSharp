@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio25\bin\Debug\Ejercicio25.exe.config
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio25\bin\Debug\Ejercicio25.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio25\bin\Debug\Ejercicio25.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio25\obj\Debug\Ejercicio25.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio25\obj\Debug\Ejercicio25.Form1.resources
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio25\obj\Debug\Ejercicio25.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio25\obj\Debug\Ejercicio25.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio25\obj\Debug\Ejercicio25.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio25\obj\Debug\Ejercicio25.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio25\obj\Debug\Ejercicio25.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio25\bin\Debug\Ejercicio22.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio25\bin\Debug\Ejercicio13.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio25\bin\Debug\Ejercicio22.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio25\bin\Debug\Ejercicio22.exe.config
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio25\bin\Debug\Ejercicio13.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio25\bin\Debug\Ejercicio13.exe.config
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio25\obj\Debug\Ejercicio25.csproj.CopyComplete

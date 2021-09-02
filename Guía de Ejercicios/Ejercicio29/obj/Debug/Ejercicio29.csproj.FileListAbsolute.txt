@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio29\bin\Debug\Ejercicio29.exe.config
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio29\bin\Debug\Ejercicio29.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio29\bin\Debug\Ejercicio29.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio29\obj\Debug\Ejercicio29.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio29\obj\Debug\Ejercicio29.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio29\obj\Debug\Ejercicio29.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio29\obj\Debug\Ejercicio29.pdb

@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio18\bin\Debug\Ejercicio18.exe.config
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio18\bin\Debug\Ejercicio18.exe
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio18\bin\Debug\Ejercicio18.pdb
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio18\obj\Debug\Ejercicio18.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio18\obj\Debug\Ejercicio18.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio18\obj\Debug\Ejercicio18.exe
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio18\obj\Debug\Ejercicio18.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio18\bin\Debug\Ejercicio18.exe.config
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio18\bin\Debug\Ejercicio18.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio18\bin\Debug\Ejercicio18.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio18\bin\Debug\Geometría.dll
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio18\bin\Debug\Geometría.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio18\obj\Debug\Ejercicio18.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio18\obj\Debug\Ejercicio18.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio18\obj\Debug\Ejercicio18.csproj.CopyComplete
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio18\obj\Debug\Ejercicio18.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio18\obj\Debug\Ejercicio18.pdb

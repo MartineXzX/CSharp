@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dkFZ7Q+sc0tNuS5azP1bhzqF1528TtcmujZjKb3RzqhM99FiYtWMVBbj91wgSuXPOcwZ3nVFP9FbfGMQq605hw==",
+  "success": true,
+  "projectFilePath": "D:\\MARTIN\\DESCARGAS UTN\\guia de yanina\\GuiaEjercicios2021-master\\CentralitaHerencia\\CentralitaHerencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\CentralitaHerencia\bin\Debug\netstandard2.0\CentralitaHerencia.deps.json
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\CentralitaHerencia\bin\Debug\netstandard2.0\CentralitaHerencia.dll
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\CentralitaHerencia\bin\Debug\netstandard2.0\CentralitaHerencia.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.dll
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\CentralitaHerencia\obj\Debug\netstandard2.0\CentralitaHerencia.pdb

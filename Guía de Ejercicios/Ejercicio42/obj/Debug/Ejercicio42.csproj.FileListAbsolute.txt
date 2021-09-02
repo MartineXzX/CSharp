@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio42\bin\Debug\Ejercicio42.exe.config
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio42\bin\Debug\Ejercicio42.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio42\bin\Debug\Ejercicio42.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio42\obj\Debug\Ejercicio42.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio42\obj\Debug\Ejercicio42.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio42\obj\Debug\Ejercicio42.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio42\obj\Debug\Ejercicio42.pdb

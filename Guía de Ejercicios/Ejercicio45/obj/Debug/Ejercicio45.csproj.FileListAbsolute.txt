@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio45\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio45\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio45\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio45\bin\Debug\Ejercicio45.dll
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio45\bin\Debug\Ejercicio45.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio45\bin\Debug\Ejercicio42.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio45\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio45\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio45\bin\Debug\Ejercicio42.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio45\bin\Debug\Ejercicio42.exe.config
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio45\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio45\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio45\obj\Debug\Ejercicio45.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio45\obj\Debug\Ejercicio45.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio45\obj\Debug\Ejercicio45.csproj.CopyComplete
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio45\obj\Debug\Ejercicio45.dll
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio45\obj\Debug\Ejercicio45.pdb

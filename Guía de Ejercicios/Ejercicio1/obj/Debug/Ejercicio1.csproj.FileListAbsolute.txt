@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\GuiaEjercicios\SolucionGuia\bin\Debug\SolucionGuia.exe.config
+C:\Users\Administrator\source\repos\GuiaEjercicios\SolucionGuia\bin\Debug\SolucionGuia.exe
+C:\Users\Administrator\source\repos\GuiaEjercicios\SolucionGuia\bin\Debug\SolucionGuia.pdb
+C:\Users\Administrator\source\repos\GuiaEjercicios\SolucionGuia\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GuiaEjercicios\SolucionGuia\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GuiaEjercicios\SolucionGuia\obj\Debug\SolucionGuia.exe
+C:\Users\Administrator\source\repos\GuiaEjercicios\SolucionGuia\obj\Debug\SolucionGuia.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\SolucionGuia\bin\Debug\SolucionGuia.exe.config
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\SolucionGuia\bin\Debug\SolucionGuia.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\SolucionGuia\bin\Debug\SolucionGuia.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\SolucionGuia\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\SolucionGuia\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\SolucionGuia\obj\Debug\SolucionGuia.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\SolucionGuia\obj\Debug\SolucionGuia.pdb

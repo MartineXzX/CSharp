@@ -1,0 +1,39 @@
+C:\Users\Rocio\Desktop\MiCalculadora\Entidades\bin\Debug\Entidades.dll
+C:\Users\Rocio\Desktop\MiCalculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Rocio\Desktop\MiCalculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Rocio\Desktop\MiCalculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Desktop\MiCalculadora\Entidades\obj\Debug\Entidades.dll
+C:\Users\Rocio\Desktop\MiCalculadora\Entidades\obj\Debug\Entidades.pdb
+C:\Users\usuario\Desktop\Tps_Laboratorio_2\tp_laboratorio_2\MiCalculadora\Entidades\bin\Debug\Entidades.dll
+C:\Users\usuario\Desktop\Tps_Laboratorio_2\tp_laboratorio_2\MiCalculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\usuario\Desktop\Tps_Laboratorio_2\tp_laboratorio_2\MiCalculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Tps_Laboratorio_2\tp_laboratorio_2\MiCalculadora\Entidades\obj\Debug\Entidades.dll
+C:\Users\usuario\Desktop\Tps_Laboratorio_2\tp_laboratorio_2\MiCalculadora\Entidades\obj\Debug\Entidades.pdb
+C:\Users\usuario\Desktop\Tps_Laboratorio_2\tp_laboratorio_2\CalculadoraCarrera\Entidades\bin\Debug\Entidades.dll
+C:\Users\usuario\Desktop\Tps_Laboratorio_2\tp_laboratorio_2\CalculadoraCarrera\Entidades\bin\Debug\Entidades.pdb
+C:\Users\usuario\Desktop\Tps_Laboratorio_2\tp_laboratorio_2\CalculadoraCarrera\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Tps_Laboratorio_2\tp_laboratorio_2\CalculadoraCarrera\Entidades\obj\Debug\Entidades.dll
+C:\Users\usuario\Desktop\Tps_Laboratorio_2\tp_laboratorio_2\CalculadoraCarrera\Entidades\obj\Debug\Entidades.pdb
+C:\Users\User\Downloads\tp_laboratorio_2-master\TP_1_CalculadoraCarreraCristian\Entidades\bin\Debug\Entidades.dll
+C:\Users\User\Downloads\tp_laboratorio_2-master\TP_1_CalculadoraCarreraCristian\Entidades\bin\Debug\Entidades.pdb
+C:\Users\User\Downloads\tp_laboratorio_2-master\TP_1_CalculadoraCarreraCristian\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\User\Downloads\tp_laboratorio_2-master\TP_1_CalculadoraCarreraCristian\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\tp_laboratorio_2-master\TP_1_CalculadoraCarreraCristian\Entidades\obj\Debug\Entidades.dll
+C:\Users\User\Downloads\tp_laboratorio_2-master\TP_1_CalculadoraCarreraCristian\Entidades\obj\Debug\Entidades.pdb
+C:\Users\User\Desktop\TP1 - Martín Soñez - 2C\Entidades\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\TP1 - Martín Soñez - 2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\TP1 - Martín Soñez - 2C\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TP1 - Martín Soñez - 2C\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TP1 - Martín Soñez - 2C\Entidades\obj\Debug\Entidades.dll
+C:\Users\User\Desktop\TP1 - Martín Soñez - 2C\Entidades\obj\Debug\Entidades.pdb
+C:\Users\User\Downloads\git-prueba-Master\TP1 - Martín Soñez - 2C\Entidades\bin\Debug\Entidades.dll
+C:\Users\User\Downloads\git-prueba-Master\TP1 - Martín Soñez - 2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\User\Downloads\git-prueba-Master\TP1 - Martín Soñez - 2C\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\User\Downloads\git-prueba-Master\TP1 - Martín Soñez - 2C\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\git-prueba-Master\TP1 - Martín Soñez - 2C\Entidades\obj\Debug\Entidades.dll
+C:\Users\User\Downloads\git-prueba-Master\TP1 - Martín Soñez - 2C\Entidades\obj\Debug\Entidades.pdb
+C:\Users\User\Desktop\TP1 - 2C - Martín Soñez\TP1 - Martín Soñez - 2C\Entidades\bin\Debug\Entidades.dll
+C:\Users\User\Desktop\TP1 - 2C - Martín Soñez\TP1 - Martín Soñez - 2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\User\Desktop\TP1 - 2C - Martín Soñez\TP1 - Martín Soñez - 2C\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TP1 - 2C - Martín Soñez\TP1 - Martín Soñez - 2C\Entidades\obj\Debug\Entidades.dll
+C:\Users\User\Desktop\TP1 - 2C - Martín Soñez\TP1 - Martín Soñez - 2C\Entidades\obj\Debug\Entidades.pdb

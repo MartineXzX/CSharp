@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio16\bin\Debug\Ejercicio16.exe.config
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio16\bin\Debug\Ejercicio16.exe
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio16\bin\Debug\Ejercicio16.pdb
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio16\obj\Debug\Ejercicio16.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio16\obj\Debug\Ejercicio16.exe
+C:\Users\Administrator\source\repos\GuiaEJercicios\Ejercicio16\obj\Debug\Ejercicio16.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio16\bin\Debug\Ejercicio16.exe.config
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio16\bin\Debug\Ejercicio16.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio16\bin\Debug\Ejercicio16.pdb
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio16\obj\Debug\Ejercicio16.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio16\obj\Debug\Ejercicio16.exe
+C:\Users\Administrator\Desktop\GuiaEjercicios2021\Ejercicio16\obj\Debug\Ejercicio16.pdb
